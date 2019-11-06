@@ -1,0 +1,61 @@
+.container
+{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100vw;
+   
+    
+}
+.Rack
+{
+    width: 40vw;
+
+    border: 1px solid black;
+}
+.add-book h2
+{
+text-align: center;
+}
+.add-book
+{
+    width: 20vw;
+    text-align: center;
+    border: 1px solid black;
+}
+.add-book form
+{
+    width: 18vw;
+    margin: auto;
+}
+.Usecart
+{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+input
+{
+    width: 60%;
+    margin: 1vh 0 ;
+}
+
+.book-display fieldset
+{
+width: 25vw;
+display: inline-block;
+position: relative;
+}
+.book-display fieldset span
+{
+    position: absolute;
+    left: 80%;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+}
+h1
+{
+    text-align: center;
+}
