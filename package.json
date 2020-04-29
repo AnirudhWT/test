@@ -1,6 +1,7 @@
 {
   "name": "book-store",
   "version": "0.1.0",
+  "author":"anirudh khatwani",
   "private": true,
   "dependencies": {
     "moment": "^2.24.0",
